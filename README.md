@@ -1,3 +1,1 @@
-# ReactNative
-# ReactNative
 # ReactProject
